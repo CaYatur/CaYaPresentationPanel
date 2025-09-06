@@ -1,0 +1,46 @@
+CAYA GÖSTERİM PANELİ - KULLANICI LİSANS SÖZLEŞMESİ (EULA)
+
+Lisansör: CaYatur
+İletişim: caganturgut@cayadev.com
+
+Bu Lisans Sözleşmesi ("Sözleşme"), CaYatur ("Lisansör") ile bu yazılımın son kullanıcısı ("Kullanıcı") arasında yapılmış hukuki bir anlaşmadır. Yazılımı indirip çalıştırarak veya programı çalıştırmanızla bu Sözleşme'yi kabul etmiş olursunuz. Programı çalıştırmak, bu Sözleşme'yi kabul ettiğinizin açık işaretidir. Ayrıca bu EULA, Lisansörün web sitesinde yayımlanmaktadır; web sitesinde yayımlanmış olması da aynı biçimde bağlayıcıdır.
+
+1. LİSANS İZNİ
+- Lisansör, Kullanıcı'ya bu yazılımı birden fazla cihazda kurma, çalıştırma ve kullanma hakkı verir. Kullanıcı, yazılımı ihtiyaç duyduğu sayıda kopya halinde çalıştırabilir; ancak yazılımın kendisini üçüncü kişilere satamaz, yeniden dağıtamaz, kiralayamaz veya devredemez.
+
+2. EULA KABULÜ
+- Yazılım ilk çalıştırıldığında bu EULA gösterilecek ve onayınız istenebilir; ancak yazılımı indirip çalıştırmanız veya çalıştırmanız halinde bu Sözleşme'yi kabul ettiğiniz kabul edilir. Onaylamadan yazılımı kullanmamalısınız; programı çalıştırmanız EULA'yı kabul ettiğinizin işaretidir.
+
+3. GARANTİ BEYANININ REDDİ (WARRANTY DISCLAIMER)
+- BU YAZILIM "OLDUĞU GİBİ" (AS IS) VE "MEVCUT OLDUĞU ŞEKİLDE" SAĞLANMAKTADIR. LİSANSÖR, YAZILIM İLE İLGİLİ AÇIK, ZIMNİ VEYA YASAL HERHANGİ BİR GARANTİ VERMEMEKTEDİR; BUNLARIN İÇİNDE TİCARİ ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK VE HATASIZLIK GARANTİLERİ DE DAHİLDİR ANCAK BUNLARLA SINIRLI DEĞİLDİR.
+
+4. SORUMLULUĞUN SINIRLANDIRILMASI
+- KANUNUN İZİN VERDİĞİ AZAMİ SINIRLAR DAHİLİNDE, LİSANSÖR HİÇBİR DURUMDA KULLANICININ YAZILIMI KULLANMASINDAN KAYNAKLANAN DOĞRUDAN, DOLAYLI, ARIZİ, ÖZEL, SONUÇSAL YA DA ÖRNEK OLSA BİLE CEZAİ ZARARLARDAN (KÂR KAYBI, İŞ KESİNTİSİ, VERİ KAYBI, CİHAZ HASARI, HİZMETLERİN KESİNTİYE UĞRAMASI VB.) SORUMLU TUTULAMAZ.
+- LİSANSÖRÜN TOPLAM SORUMLULUĞU, KANUNUN İZİN VERDİĞİ ÖLÇÜDE, PROGRAM İÇİN KULLANICI TARAFINDAN ÖDENEN ÜCRETİN (VARSA) İADESİ İLE SINIRLIDIR. PROGRAM ÜCRETSİZ İSE LİSANSÖRÜN SORUMLULUĞU SIFIRDIR.
+
+5. RİSKİN KABULÜ
+- Kullanıcı, yazılımı kullanmaktan doğabilecek tüm riskleri kabul ettiğini ve cihaz, veri veya işler üzerinde doğabilecek olası zararların sorumluluğunun kendisine ait olduğunu kabul eder. YAZILIMIN KULLANIMI SIRASINDA OLUŞABİLECEK DONANIM, YAZILIM, VERİ VEYA İŞ ZARARLARI KULLANICININ RİSKİNDİR.
+
+6. TAZMİNAT (KULLANICI TARAFINDAN TAM TAZMİN)
+- Kullanıcı, yazılımı kötüye kullanması, bu EULA'yı ihlal etmesi, üçüncü şahıs haklarını ihlal etmesi veya Kullanıcı tarafından gerçekleştirilen eylemler nedeniyle Lisansörün uğrayacağı tüm talepleri, tazminat taleplerini, zararları, maliyetleri ve masrafları (makul avukatlık ve savunma ücretleri dahil) tamamen ve derhal tazmin etmeyi, Lisansörü savunmayı ve Lisansöre herhangi bir maliyet/zarar yüklememeyi kabul eder.
+
+7. TERSİNE MÜHENDİSLİK VE DEĞİŞTİRME YASAĞI
+- Kullanıcı, yazılım üzerinde tersine mühendislik, dekompilasyon, ayıklama, kaynak elde etmeye yönelik çalışmalar veya türev çalışmalar yapamaz; yazılımı değiştiremez veya yeniden paketleyemez.
+
+8. DESTEK VE GÜNCELLEMELER
+- Bu Sözleşme, Lisansörün destek veya güncelleme sağlama yükümlülüğü getirmez. Destek veya güncellemeler ayrı bir anlaşma ile sunulabilir.
+
+9. YASALARIN SINIRI
+- Bazı yargı bölgelerinde sorumluluğun reddi veya sınırlanmasıyla ilgili hükümler kısmen veya tamamen geçersiz sayılabilir. Bu durumda EULA’nın ilgili kısmı, o bölgedeki yasal zorunluluklara göre uygulanır; diğer hükümler yürürlükte kalır.
+
+10. SÖZLEŞMENİN İHLALİ VE FESİH
+- Bu Sözleşmenin ihlali halinde Lisansör, lisansı derhal feshetme ve gerekli hukuki yollara başvurma hakkına sahiptir.
+
+11. UYGULANACAK HUKUK VE YETKİ
+- Bu Sözleşme Türkiye Cumhuriyeti kanunlarına tabidir. Taraflar arasında çıkacak uyuşmazlıklarda İstanbul Mahkemeleri ve İcra Daireleri yetkilidir.
+
+12. DİĞER HÜKÜMLER
+- Bu belge Lisansör ile Kullanıcı arasındaki tüm anlaşmayı teşkil eder. Yazılı olarak değiştirilmedikçe bağlayıcıdır.
+
+13. EULA’YI DEĞİŞTİRME HAKKI
+- Lisansör, bu Sözleşme'yi dilediği zaman tek taraflı olarak değiştirme hakkını saklı tutar. Yapılacak değişiklikler Lisansörün web sitesinde yayımlandığı anda yürürlüğe girebilir; Lisansör ayrıca makul gördüğü hallerde e-posta veya uygulama içi bildirim ile bildirimde bulunabilir. Programı değişiklikten sonra kullanmaya devam etmeniz, yapılan yeni değişiklikleri kabul ettiğiniz anlamına gelir. Eğer değişiklikleri kabul etmiyorsanız, yazılımı kullanmayı derhal durdurup kaldırmalısınız.
