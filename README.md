@@ -31,7 +31,7 @@ Sistem gereksinimleri
 > 7. Katmanlı gösterimler için "Arkaplan / Yazı Göster" düzenleyicisini kullanın, hedef ekranı seçin ve "Tam Ekran Göster" ile yayınlayın.
 
 
-Güvenlik ve ağ
+## Güvenlik ve ağ
 - Dahili web sunucusu basit kontrol amaçlıdır. Yerel ağda kullanırken güvenlik duvarı ayarlarınıza dikkat edin.
 - Eğer programı halka açık bir ağa bağlamak istemiyorsanız, sadece güvenilir yerel ağlarda kullanın.
 
