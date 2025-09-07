@@ -15,12 +15,12 @@ Genel amaç: sahne, etkinlik veya gösterimlerde kolayca medya çalmak, ekranlar
 - Program tek dosya (single exe) olarak dağıtılmaya uygundur — kurulum gerektirmez.
 
 
-Sistem gereksinimleri
+## Sistem gereksinimleri
 - Windows 10 veya Windows 11
 - .NET 8 çalıştırma zamanı
 
 
-## Kullanıcılar için Hızlı Başlangıç
+## Kullanıcılar için Hızlı Başlangıç
 > 1. Programı indirin (tek exe dosyası).
 > 2. Yeni bir klasör oluşturun (örneğin "CaYaPanel") ve indirdiğiniz exe'yi bu klasöre koyun.
 >   - ÖNEMLİ: Programı çalıştırmadan önce yeni klasör oluşturup exe'yi o klasörün içinden başlatmanızı kesinlikle öneririz. Program başlangıçta kendi yapılandırma dosyalarını (dataCY.json vb.) ve medya önbelleklerini çalıştığı klasöre oluşturur.
