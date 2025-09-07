@@ -17,7 +17,7 @@ Genel amaç: sahne, etkinlik veya gösterimlerde kolayca medya çalmak, ekranlar
 
 Sistem gereksinimleri
 - Windows 10 veya Windows 11
-- .NET 8 çalıştırma zamanı (program tek dosya exe olarak paketlenirse kullanıcıların ek bir şey yapması genelde gerekmez)
+- .NET 8 çalıştırma zamanı
 
 
 ## Kullanıcılar için Hızlı Başlangıç
