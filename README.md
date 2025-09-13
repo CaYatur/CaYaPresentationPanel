@@ -2,7 +2,7 @@
 
 Genel amaç: sahne, etkinlik veya gösterimlerde kolayca medya çalmak, ekranlara içerik göstermek ve uzaktan kontrol etmek için hazırlanmış, bir Windows programıdır.
 
-Öne çıkan özellikler
+## Öne çıkan özellikler
 - Ses, video, resim, GIF ve sunum dosyalarını oynatma.
 - Yerel ağ üzerinden basit web arayüzüyle uzaktan kontrol (QR kod ile hızlı bağlantı).
 - Her medya öğesi için ayrı ses düzeyi ayarı.
@@ -17,7 +17,7 @@ Genel amaç: sahne, etkinlik veya gösterimlerde kolayca medya çalmak, ekranlar
 
 ## Sistem gereksinimleri
 - Windows 10 veya Windows 11
-- .NET 8 çalıştırma zamanı
+- .NET 10.0 çalıştırma zamanı
 
 
 ## Kullanıcılar için Hızlı Başlangıç
@@ -40,4 +40,4 @@ Genel amaç: sahne, etkinlik veya gösterimlerde kolayca medya çalmak, ekranlar
 
 
 ## Notlar
-- Bu programın çalışması için .NET 8.0 gerekmektedir. (Programı açtıktan sonra yoksa indirmek için size otomatik şekilde sorar ve indirdikten sonra kurmanız gerekir.)
+- Bu programın çalışması için .NET 10.0 gerekmektedir. (Programı açtıktan sonra yoksa indirmek için size otomatik şekilde sorar ve indirdikten sonra kurmanız gerekir.)
