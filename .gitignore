@@ -1,0 +1,37 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.ncrunchproject
+*.ncrunchsolution
+
+# NuGet packages
+packages/
+*.nupkg
+**/packages/*
+
+# Rider/ReSharper
+.idea/
+*.DotSettings.user
+
+# Fody (generated)
+FodyWeavers.xsd
+
+# Large binary / runtime files (libvlc zip - already in repo as libvlc/win-x64 folder)
+SoundPanel/libvlc.zip
+
+# Runtime data files (created at runtime)
+dataCY.json
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
