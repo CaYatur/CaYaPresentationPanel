@@ -1,16 +1,30 @@
-Telif Hakkı © 2025 CaYatur. Tüm hakları saklıdır.
+Telif Hakkı © 2026 CaYatur. Tüm hakları saklıdır.
 
-Bu yazılım (ikili yürütülebilir dosyalar, beraberindeki belgeler ve ilgili materyaller) CaYatur'a aittir. Kaynak kodu kamuya açık değildir.
+Bu yazılım, belgeleri ve ilgili materyalleri CaYatur'a aittir.
 
-İzinler ve yasaklar:
-- Bu yazılımın kopyalanması, yeniden dağıtılması, satılması, kiralanması veya üçüncü kişilere devredilmesi yasaktır.
-- Yazılım üzerinde türev çalışmalar oluşturulması, değiştirme, tersine mühendislik (reverse engineering), dekompilasyon veya ayıklama yasaktır.
-- Kullanıcılar yazılımı kendi işleri veya hizmetleri içinde kullanarak gelir elde edebilir; ancak yazılımın kendisini başkalarına satamaz veya dağıtamazlar.
+Bu proje kapsamında kaynak kodu inceleme ve şeffaflık amacıyla kamuya açık hale getirilmiştir. Ancak bu durum, yazılımın tamamen açık kaynak veya serbest lisanslı olduğu anlamına gelmez. Kaynak kodunun erişilebilir olması, aşağıdaki izin ve kısıtlamalara tabidir.
+
+İzinler:
+- Kullanıcılar kaynak kodunu inceleyebilir.
+- Kullanıcılar yazılımı kendi kişisel, eğitimsel veya kurum içi kullanım amaçlarıyla çalıştırabilir.
+- Kullanıcılar yazılımı kendi işleri veya hizmetleri içinde kullanarak gelir elde edebilir; ancak yazılımın kendisini başkalarına satamaz, kiralayamaz veya dağıtamaz.
+
+Yasaklar:
+- Bu yazılımın veya kaynak kodunun izinsiz şekilde kopyalanması, yeniden dağıtılması, satılması, kiralanması veya üçüncü kişilere devredilmesi yasaktır.
+- Yazılımın veya kaynak kodunun değiştirilmiş sürümlerinin paylaşılması, satılması veya dağıtılması yasaktır.
+- Yazılım üzerinde CaYatur'un yazılı izni olmadan türev çalışmalar oluşturulması yasaktır.
+- Yazılımın başka bir ürünün parçası olarak yeniden paketlenmesi, marka değiştirilerek sunulması veya ticari olarak yeniden satılması yasaktır.
+- Telif hakkı, lisans bildirimi veya CaYatur'a ait kimlik bilgilerinin kaldırılması ya da değiştirilmesi yasaktır.
 
 Kullanım koşulları:
-- Yazılımın kullanımı, projedeki EULA (Kullanıcı Lisans Sözleşmesi) dokümanında belirtilen şartlara tabidir. Detaylar için EULA.txt dosyasına ve Lisansörün web sitesinde yayımlanan bildirime bakınız.
-- Yazılım "OLDUĞU GİBİ" (AS IS) sağlanır; CaYatur açık veya kapalı herhangi bir garanti vermez.
+- Yazılımın kullanımı, projedeki EULA / Kullanıcı Lisans Sözleşmesi dokümanında belirtilen şartlara tabidir.
+- Detaylar için EULA.txt dosyasına ve Lisansörün web sitesinde yayımlanan bildirime bakınız.
+- Bu yazılım "OLDUĞU GİBİ" (AS IS) sağlanır. CaYatur açık veya kapalı herhangi bir garanti vermez.
+- CaYatur; veri kaybı, iş kesintisi, gelir kaybı, güvenlik sorunları veya yazılımın kullanımından doğabilecek doğrudan ya da dolaylı zararlardan sorumlu tutulamaz.
+
+Not:
+Bu proje kaynak kodu görüntülenebilir bir modelle yayımlanmıştır. CaYatur tarafından ayrıca yazılı izin verilmediği sürece yazılımın yeniden dağıtımı, değiştirilmiş sürümlerinin yayımlanması veya ticari olarak satılması yasaktır.
 
 İletişim:
-
-- Sorular veya bildirimler için: caganturgut@cayadev.com
+Sorular, izin talepleri veya bildirimler için:
+caganturgut@cayadev.com
