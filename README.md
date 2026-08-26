@@ -2,6 +2,8 @@
 
 Genel amaç: sahne, etkinlik veya gösterimlerde kolayca medya çalmak, ekranlara içerik göstermek ve uzaktan kontrol etmek için hazırlanmış, bir Windows programıdır.
 
+![cover](Cover.png)
+
 ## Öne çıkan özellikler
 - Ses, video, resim, GIF ve sunum dosyalarını oynatma.
 - Yerel ağ üzerinden basit web arayüzüyle uzaktan kontrol (QR kod ile hızlı bağlantı).
